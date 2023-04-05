@@ -14,6 +14,6 @@ Big chat is perfect for people who want a simple, easy-to-use social media app w
 Our MVP is now available on GitHub Pages, so you can start using it right away. To get started, simply visit Big Chat.github.io and sign up for an account. Join our community today and see what Big Chat can do for you!
 
 Here are the main pages from the app:
-[[https://github.com/Biruk-Tassew/portfolio/blob/main/m.jpeg]]
-[[https://github.com/Biruk-Tassew/portfolio/blob/main/o.jpeg]]
-[[https://github.com/Biruk-Tassew/portfolio/blob/main/h.jpeg]]
+![alt text](https://github.com/Biruk-Tassew/portfolio/blob/main/m.jpeg)
+![alt text](https://github.com/Biruk-Tassew/portfolio/blob/main/o.jpeg)
+![alt text](https://github.com/Biruk-Tassew/portfolio/blob/main/h.jpeg)
